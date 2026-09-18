@@ -12,15 +12,15 @@
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/VZEQJxMSnG)
+[Discord] 41862
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube] https://www.youtube.com/@NYXTHEPRIME
 
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nyxv4/nyxv4/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
